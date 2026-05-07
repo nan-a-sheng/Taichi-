@@ -13,10 +13,12 @@ Whitted-style 光线追踪算法
 1. 安装依赖
 ```bash
 pip install taichi
+```
 2. 运行代码
 直接运行 Python 文件即可启动渲染窗口：
 ```bash
 python raytracer.py
+```
 3. 交互控制
 右侧控制面板支持实时调节：
 Light X/Y/Z：光源三维位置
